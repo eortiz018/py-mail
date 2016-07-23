@@ -5,11 +5,11 @@ from email.MIMEText import MIMEText
 ##############################################
 # You fill out the following variables 
 # and let Python do the rest...
-fromaddr = "andoverace10@gmail.com"
+fromaddr = "andoverace10@gmail.com" #DO NOT USE YOUR OWN> GITHUB IS PUBLIC
 password = "gobigblue"
-toaddr = ""  # WARNING: change this
-subject = "Sample Subject"
-body = "Sample body"
+toaddr = " "  # WARNING: change this
+subject = "Simple Subject"
+body = "Simple Body"
 ##############################################
 
 print "Sending email from %s to %s..." % (fromaddr, toaddr)
